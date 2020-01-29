@@ -1,0 +1,17 @@
+E:\Komal Data\Code\DotNet\Developer-Test\Developer-Test.Test\bin\Debug\NUnit3.TestAdapter.dll
+E:\Komal Data\Code\DotNet\Developer-Test\Developer-Test.Test\bin\Debug\NUnit3.TestAdapter.pdb
+E:\Komal Data\Code\DotNet\Developer-Test\Developer-Test.Test\bin\Debug\nunit.engine.dll
+E:\Komal Data\Code\DotNet\Developer-Test\Developer-Test.Test\bin\Debug\nunit.engine.api.dll
+E:\Komal Data\Code\DotNet\Developer-Test\Developer-Test.Test\bin\Debug\Mono.Cecil.dll
+E:\Komal Data\Code\DotNet\Developer-Test\Developer-Test.Test\bin\Debug\Developer-Test.Test.dll
+E:\Komal Data\Code\DotNet\Developer-Test\Developer-Test.Test\bin\Debug\Developer-Test.Test.pdb
+E:\Komal Data\Code\DotNet\Developer-Test\Developer-Test.Test\bin\Debug\Developer-Test.dll
+E:\Komal Data\Code\DotNet\Developer-Test\Developer-Test.Test\bin\Debug\nunit.framework.dll
+E:\Komal Data\Code\DotNet\Developer-Test\Developer-Test.Test\bin\Debug\Developer-Test.pdb
+E:\Komal Data\Code\DotNet\Developer-Test\Developer-Test.Test\bin\Debug\nunit.framework.pdb
+E:\Komal Data\Code\DotNet\Developer-Test\Developer-Test.Test\bin\Debug\nunit.framework.xml
+E:\Komal Data\Code\DotNet\Developer-Test\Developer-Test.Test\obj\Debug\Developer-Test.Test.csprojAssemblyReference.cache
+E:\Komal Data\Code\DotNet\Developer-Test\Developer-Test.Test\obj\Debug\Developer-Test.Test.csproj.CoreCompileInputs.cache
+E:\Komal Data\Code\DotNet\Developer-Test\Developer-Test.Test\obj\Debug\Developer-Test.Test.csproj.CopyComplete
+E:\Komal Data\Code\DotNet\Developer-Test\Developer-Test.Test\obj\Debug\Developer-Test.Test.dll
+E:\Komal Data\Code\DotNet\Developer-Test\Developer-Test.Test\obj\Debug\Developer-Test.Test.pdb
